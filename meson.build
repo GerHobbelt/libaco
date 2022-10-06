@@ -1,4 +1,4 @@
-project('libaco', 'c',
+project('aco', 'c',
   version: '1.2.4',
   default_options: [
     'buildtype=debugoptimized',
