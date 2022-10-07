@@ -415,7 +415,7 @@ Destroy the `co`. The argument `co` must not be NULL. The private save stack wou
 ```c
 #define ACO_VERSION_MAJOR 1
 #define ACO_VERSION_MINOR 2
-#define ACO_VERSION_PATCH 4
+#define ACO_VERSION_PATCH 5
 ```
 
 These 3 macros are defined in the header `aco.h` and the value of them follows the spec: [Semantic Versioning 2.0.0](https://semver.org/spec/v2.0.0.html).
